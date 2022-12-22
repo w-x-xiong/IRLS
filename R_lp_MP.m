@@ -1,6 +1,5 @@
 function [x, fail] = R_lp_MP(anc, rangems, p, maxiter, gamma)
-%Paper: Robust TOA-based positioning via $\ell_p$-minimization
-%MP-Based Algorithm
+%Paper: A Message Passing Based Iterative Algorithm for Robust TOA Positioning in Impulsive Noise
 
 %-Inputs
 %anc - matrix including sensor positions 
